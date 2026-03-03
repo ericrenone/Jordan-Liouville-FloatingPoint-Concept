@@ -1,6 +1,6 @@
 # Jordan-Liouville Production AI System
 
-> *Intelligence is topology-preserving compression. A system learns by minimizing Lebesgue volume while maintaining the Hausdorff dimension required for feature representation. Every architectural decision is a consequence of this principle.*
+> *Intelligence is topology-preserving compression. A system learns by minimizing Lebesgue volume while maintaining the Hausdorff dimension required for feature representation. Every decision is a consequence of this principle.*
 
 ---
 
