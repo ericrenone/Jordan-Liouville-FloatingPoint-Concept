@@ -1,6 +1,6 @@
 # Jordan-Liouville Production AI System
 
-> *Intelligence is topology-preserving compression. A system learns by minimizing Lebesgue volume while maintaining the intrinsic dimension required for feature representation. Every architectural decision is a consequence of this single measurable constraint.*
+> *Intelligence is topology-preserving compression. A system learns by minimizing Lebesgue volume while maintaining the intrinsic dimension required for feature representation. Every decision is a consequence of this single measurable constraint.*
 
 ---
 
@@ -2300,8 +2300,3 @@ def twenty_language_gate(
 
 **Platform:** Python 3.14.2 · Windows 11 · AMD64
 
----
-
-> *65 tests. 12 suites. 0 failures.*
-> *What is proved is proved. What is calibrated is calibrated. The distinction is documented in §1 and §14.*
-> *The system is production-ready when the Fisher agrees it must be stable.*
