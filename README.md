@@ -499,18 +499,4 @@ The F construction from attention correlators is the frontier. The mathematical 
 | Mechanistic interpretability | Neel Nanda et al. | Grounding for F construction |
 | Platonic Representation Hypothesis | MIT 2024 | Support for universal F |
 
----
-
-## Contributing
-
-The highest-value open problems in this system:
-
-1. **Implement the F construction from attention correlators** — extract 3-point functions from attention weights on GPT-2 or small Llama, symmetrize, integrate, check WDVV residual on the result. This would validate or falsify the core geometric claim.
-
-2. **Empirically test the phase-generalization correspondence** — run the `SpectralOracleValidator` protocol across diverse model families and report the calibration curve.
-
-3. **Albert algebra extension** — implement the Tits construction embedding for attention heads with 3-way product structure.
-
-4. **Euler vector field** — determine whether the F learned from training trajectories admits an Euler vector field, and what the conformal dimension d corresponds to in terms of model depth or reasoning steps.
-
 
